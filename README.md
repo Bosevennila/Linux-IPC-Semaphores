@@ -1,5 +1,5 @@
-# Linux-IPC-Semaphores
-Ex05-Linux IPC-Semaphores
+# Ex-05 Linux-IPC-Semaphores
+
 
 ### Name : CHANDRAPRIYADHARSHINI C
 ### register Number : 212223240019
